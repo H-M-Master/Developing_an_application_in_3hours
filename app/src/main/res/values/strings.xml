@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Wellness Tracker</string>
+    <string name="welcome_template">Hello, %1$s!</string>
+    <string name="today_summary_template">Today: %1$d / %2$d steps</string>
+    <string name="label_steps">Steps</string>
+    <string name="hint_steps">Enter steps</string>
+    <string name="label_mood">Mood</string>
+    <string name="label_remark">Remark</string>
+    <string name="hint_remark">Optional remark</string>
+    <string name="label_date">Date</string>
+    <string name="action_change">Change</string>
+    <string name="action_save_today">Save Today</string>
+    <string name="action_view_history">View History</string>
+    <string name="action_back">Back</string>
+    <string name="action_save">Save</string>
+    <string name="error_steps_required">Steps must be greater than 0</string>
+    <string name="toast_saved">Saved: %1$d steps, mood: %2$s</string>
+    <string name="weekly_summary_template">Goal Completion Rate: %1$d / 7</string>
+    <string name="week_range_template">%1$s - %2$s</string>
+    <string name="empty_records">No records yet. Start tracking your wellness!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_clear_data">Clear All Data</string>
+    <string name="settings_title">Settings</string>
+    <string name="label_nickname">Nickname</string>
+    <string name="hint_nickname">Enter nickname</string>
+    <string name="label_daily_goal">Daily Step Goal</string>
+    <string name="hint_daily_goal">Enter goal (e.g., 10000)</string>
+    <string name="error_goal_required">Goal must be greater than 0</string>
+    <string name="toast_settings_saved">Settings updated</string>
+    <string name="dialog_clear_title">Clear All Data</string>
+    <string name="dialog_clear_message">This will delete all records and reset settings. Continue?</string>
+    <string name="toast_all_cleared">All data cleared!</string>
+    <string-array name="mood_options">
+        <item>Energic</item>
+        <item>Normal</item>
+        <item>Tired</item>
+    </string-array>
+</resources>

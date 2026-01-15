@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Blue & pine-yellow palette -->
+    <color name="brand_blue">#002FA7</color>
+    <color name="brand_blue_dark">#001F6F</color>
+    <color name="brand_yellow">#FFE76F</color>
+    <color name="brand_yellow_muted">#F9D956</color>
+    <color name="text_on_blue">#FFE76F</color>
+    <color name="text_on_yellow">#002FA7</color>
+</resources>

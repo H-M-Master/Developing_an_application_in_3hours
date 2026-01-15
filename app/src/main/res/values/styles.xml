@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="YellowSpinnerStyle" parent="@style/Widget.AppCompat.Spinner">
+        <item name="android:textColor">@color/brand_yellow</item>
+        <item name="android:popupBackground">@color/brand_blue_dark</item>
+    </style>
+
+    <style name="ToolbarTitleBold" parent="@style/TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/brand_yellow</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+
+    <style name="YellowTextInputLayout" parent="Widget.Material3.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/brand_yellow_muted</item>
+        <item name="boxStrokeColor">@color/yellow_hint_selector</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+        <item name="hintTextColor">@color/yellow_hint_selector</item>
+        <item name="android:background">@drawable/bg_input_field</item>
+        <item name="hintEnabled">false</item>
+    </style>
+</resources>
