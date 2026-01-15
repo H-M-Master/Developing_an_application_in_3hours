@@ -1,7 +1,7 @@
 # Wellness Tracker App
 
 ## Overview
-A simple Android app to record daily steps, mood, and notes, then review weekly progress. Data is stored locally with Room and SharedPreferences. Built for the EE5415 programming test context.
+A simple Android app to record daily steps, mood, and notes, then review weekly progress. Data is stored locally with Room and SharedPreferences. 
 
 ## Key Features
 - Main screen to input steps, mood (Energic, Normal, Tired), optional remark, and date (defaults to today).
